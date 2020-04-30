@@ -77,7 +77,7 @@ output/
 pages/assets/js/pure/
 dist/
 _site/
-.tmp/
+.tmp/.cache
 
 # ignore .org files
 *.org
